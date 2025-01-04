@@ -1,23 +1,22 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+59L:
+  name: 59L
+  title: Project Leader
+  url: https://github.com/59L
+  image_url: https://avatars.githubusercontent.com/u/60123007?v=4
   page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    permalink: '/59l'
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: 59L
+
+simonb50:
+  name: SimonB50
+  title: Project Maintainer
+  url: https://github.com/SimonB50
+  image_url: https://avatars.githubusercontent.com/u/40821945?v=4
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/simonb50'
+  socials:
+    github: SimonB50
+    website: https://simonb50.xyz

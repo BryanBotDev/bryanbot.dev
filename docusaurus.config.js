@@ -15,14 +15,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://bryanbot.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'BryanBotCore', // Usually your GitHub org/user name.
+  organizationName: 'BryanBotDev', // Usually your GitHub org/user name.
   projectName: 'bryanbot.dev', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -45,7 +45,7 @@ const config = {
           sidebarPath: './sidebars.js',
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/BryanBotCore/bryanbot.dev',
+            'https://github.com/BryanBotDev/bryanbot.dev/tree/master/',
         },
         blog: {
           showReadingTime: true,
@@ -53,9 +53,6 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/BryanBotCore/bryanbot.dev',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -86,10 +83,15 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/BryanBotDev/BryanBot',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://discord.gg/GvyuDDFeZU',
+            label: 'Discord',
             position: 'right',
           },
         ],
@@ -118,18 +120,18 @@ const config = {
           {
             title: 'More',
             items: [
-              {
+/*               {
                 label: 'Blog',
                 to: '/blog',
-              },
+              }, */
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/BryanBotDev/BryanBot',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BryanBot, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} BryanBot. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
