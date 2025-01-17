@@ -56,6 +56,6 @@ After installing the dependencies, you need to set up the bot for the first time
 
 :::warning
 
-This section of documentation is still in progress. If you have any questions, feel free to ask in the [support server](/docs/community/support).
+This section of documentation is still in progress. If you have any questions, feel free to ask in the [support server](https://discord.gg/GvyuDDFeZU).
 
 :::

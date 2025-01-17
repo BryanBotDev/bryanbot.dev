@@ -25,4 +25,4 @@ While not providing a lot of default functionality, BryanBot is built to be easi
 And a lot more!
 
 ## Getting started
-Check out the [setup guide](/docs/setup) to get started with BryanBot.
+Check out the [setup guide](/docs/setup/installation) to get started with BryanBot.
