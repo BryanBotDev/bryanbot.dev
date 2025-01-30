@@ -13,7 +13,7 @@ Built with **JavaScript (ESM)** and powered by **Discord.js**, BryanBot is desig
 - **Open-Source and Secure** - Built and maintained by the community, ensuring transparency and security.
 - **No Hidden Code** - As an open-source project, all code is **publicly available**, preventing malicious modifications or security risks.
 - **No Licensing Restrictions** - BryanBot gives you **full control without third-party limitations**, ensuring your bot remains truly yours.
-- **Modular & Addon-Based** – Add only the features you need with **[customizable addons](/docs/development/introductions)**.
+- **Modular & Addon-Based** – Add only the features you need with **[customizable addons](/docs/development/introduction)**.
 - **Optimized Performance** – Built for **speed and efficiency**, keeping your server running smoothly.
 - **Developer-Friendly** – A structured API with **command, event, and config handlers** for easy development.
 - **Minimal & Efficient** – No bloat, just the essentials. Expand the bot as needed.
