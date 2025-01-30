@@ -1,28 +1,43 @@
 ---
-title: Requirements
+title: System Requirements
 sidebar_position: 1
 ---
 
-# Requirements
-BryanBot is very easy to set up and use, but there are some requirements you need to meet before you can start using it.
+# BryanBot System Requirements
 
-## Hosting
-For hosting the bot, you will need a machine that can run Node.js. This can be your personal computer, a VPS, or a managed hosting service. For keeping the bot online 24/7, it is recommended to use a VPS or a managed hosting service.
+BryanBot is designed to be **efficient, scalable, and easy to deploy**. Whether you're running it on a personal computer, a VPS, or a dedicated server, meeting these requirements will ensure a smooth and reliable experience.
 
-The option that you choose needs to have Node.js installed on it. If you are going to use a VPS or personal computer, you can download Node.js from the [official website](https://nodejs.org/). Managed hosting services usually come with Node.js pre-installed.
+## Hosting Requirements
+BryanBot requires a system capable of running **Node.js**. This can be:
 
-### Recommended hosting services
-We recommend using one of the following hosting services:
-- [Hetzner](https://www.hetzner.com/) - affordable VPS hosting
-- [NovoNode](https://novonode.com/) - affordable managed hosting
-- [Sparked Host](https://sparkedhost.com/) - user-friendly managed hosting
+- A **personal computer** (suitable for testing or temporary use)
+- A **VPS (Virtual Private Server)** (recommended for 24/7 uptime)
+- A **dedicated hosting service** (for ease of use without setup headaches)
 
-## Installation methods
-:::note
+### Minimum System Requirements
+- **Processor:** 1 Core @ 2 GHz
+- **Memory:** 200 MB RAM (1 GB recommended for improved stability)
+- **Storage:** 500 MB available disk space
+- **Operating System:** Linux (Ubuntu/Debian recommended), Windows, or macOS
+- **Node.js Version:** Latest **LTS release** ([Download Here](https://nodejs.org/))
 
-This part is still under development. Please check back later for more information.
+### Recommended System Specifications
+- **Processor:** 2+ Cores @ 3 GHz+ (for larger servers and heavier workloads)
+- **Memory:** 1 GB+ RAM (for optimal performance and addon usage)
+- **Storage:** 2 GB+ SSD (ensures faster data access and stability)
+- **Operating System:** Linux (Ubuntu 20.04+ preferred for security and efficiency)
+- **Node.js Version:** Latest **LTS release**
 
-:::
+## Hosting Options
+If you prefer not to run BryanBot on your own hardware, consider using a hosting provider. These services offer VPS and managed hosting solutions tailored for running Discord bots.
+Using a dedicated host normally comes with a panel **designed for bots** allowing you to easily start and **manage your bot conveniently**. Whether you are using a **VPS** or a **bot host**, you should be able to
+achieve a **24/7** uptime on your **BryanBot Instance**
 
-As of now, the only way to install and use BryanBot is to upload and run it from source.
-Other installation methods such as Docker installation are currently under development and will be available in the future.
+### Recommended Hosting Providers
+- **(Host) [NovoNode](https://novonode.com/)** – Managed hosting with simplified setup.
+- **(Host) [Sparked Host](https://sparkedhost.com/)** – Performance-focused bot hosting.
+- **(VPS) [Hetzner](https://www.hetzner.com/)** – Cost-effective and reliable VPS hosting.
+- **(VPS) [Contabo](https://contabo.com/)** – Affordable VPS solutions with generous resource allocations.
+
+## Need Help?
+If you run into any issues or need assistance with installation, join our **[Discord Community](https://discord.gg/GvyuDDFeZU)** for support and discussions.
