@@ -3,7 +3,7 @@ title: Welcome
 sidebar_position: 1
 ---
 
-# 🚀 Welcome to BryanBot
+# Welcome to BryanBot
 
 Welcome to **BryanBot**, an open-source **modular Discord bot** built for flexibility, customization, and performance. Whether you're managing a server, developing new features, or just looking for a powerful bot that fits your needs, BryanBot makes it easy to create a tailored Discord experience.
 
